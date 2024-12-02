@@ -1,6 +1,6 @@
-# FinDefender User Portal
+# FinDefender Solution
 
-This is the **User Portal** for the Findefender Fraud Detection System. It allows users to report potential fraud by submitting images and descriptions. The system processes these reports, extracts text from images, and analyzes the fraud percentage.
+This is the **solution/ script** for the Findefender Fraud Detection System. It is implemented above the Open Finance platform so as to allow users to report potential fraud by submitting images and descriptions. The system processes these reports, extracts text from images, and analyzes the fraud percentage.
 
 ## **Table of Contents**
 - [Project Description](#project-description)
@@ -37,12 +37,9 @@ If the fraud percentage exceeds a threshold (70%), the report is flagged as frau
 ---
 
 ## **Video Demo**
+[![FinDefender Solution Demo](https://img.youtube.com/vi/7Xe9eRHtFU0/0.jpg)](https://www.youtube.com/watch?v=7Xe9eRHtFU0)
 
-[![User Portal Demo](![report](![report](https://github.com/user-attachments/assets/94db37d1-2b9c-43ef-9ae8-bda39d657c29)
-)
-)](https://drive.google.com/file/d/1I2VKpRSaWHSFRp4PZqfU__EVjuioIB4m/view?usp=drive_link)
-
-Click above to watch a demo showcasing the **User Portal** in action.
+Click above to watch a demo showcasing the **FinDefender Solution** in action.
 
 ---
 
