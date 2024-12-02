@@ -50,4 +50,4 @@ Click above to watch a demo showcasing the **User Portal** in action.
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/your-username/user-portal-smart-fraud.git](https://github.com/SiowYenChong/FinDefender.git)
+   git clone https://github.com/SiowYenChong/FinDefender.git
