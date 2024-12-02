@@ -134,7 +134,7 @@ import openai
 import pandas as pd
 import re
 
-client = openai.OpenAI(api_key='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')
+client = openai.OpenAI(api_key='INSERT API KEY')
 
 def filter_single_status(row):
     if row['status'] in ['new'] and row['image_text_similarity'] >= 40:
