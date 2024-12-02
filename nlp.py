@@ -110,7 +110,7 @@ for res in similarity_results:
 
 import openai
 
-client = openai.OpenAI(api_key='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')
+client = openai.OpenAI(api_key='INSERT API KEY')
 
 completion = client.chat.completions.create(
     model="gpt-3.5-turbo",
